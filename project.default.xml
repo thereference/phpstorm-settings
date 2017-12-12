@@ -1,0 +1,89 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="ComposerJsonPluginSettings">
+        <unboundedVersionInspectionSettings>
+          <excludedPackages />
+        </unboundedVersionInspectionSettings>
+        <customRepositories />
+      </component>
+      <component name="Encoding">
+        <file url="PROJECT" charset="UTF-8" />
+      </component>
+      <component name="InspectionProjectProfileManager">
+        <profile version="1.0">
+          <option name="myName" value="Project Default" />
+          <option name="myLocal" value="true" />
+          <inspection_tool class="PhpCSValidationInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+            <option name="CODING_STANDARD" value="Drupal" />
+          </inspection_tool>
+        </profile>
+        <version value="1.0" />
+      </component>
+      <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="PHP" />
+      <component name="ProjectInspectionProfilesVisibleTreeState">
+        <entry key="Project Default">
+          <profile-state>
+            <expanded-state>
+              <State>
+                <id />
+              </State>
+              <State>
+                <id>BashSupport</id>
+              </State>
+              <State>
+                <id>Bitwise operation issuesJavaScript</id>
+              </State>
+              <State>
+                <id>Control flow issuesJavaScript</id>
+              </State>
+              <State>
+                <id>DOM issuesJavaScript</id>
+              </State>
+              <State>
+                <id>Data flow issuesJavaScript</id>
+              </State>
+              <State>
+                <id>GeneralJavaScript</id>
+              </State>
+              <State>
+                <id>GeneralPHP</id>
+              </State>
+              <State>
+                <id>JavaScript</id>
+              </State>
+              <State>
+                <id>PHP</id>
+              </State>
+              <State>
+                <id>Potentially confusing code constructsJavaScript</id>
+              </State>
+              <State>
+                <id>RELAX NG</id>
+              </State>
+              <State>
+                <id>UndefinedPHP</id>
+              </State>
+            </expanded-state>
+            <selected-state>
+              <State>
+                <id>BashSupport</id>
+              </State>
+            </selected-state>
+          </profile-state>
+        </entry>
+      </component>
+      <component name="PropertiesComponent">
+        <property name="options.lastSelected" value="configurable.group.appearance" />
+        <property name="options.splitter.main.proportions" value="0.3" />
+        <property name="options.splitter.details.proportions" value="0.2" />
+        <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
+        <property name="settings.editor.splitter.proportion" value="0.2" />
+        <property name="last_opened_file_path" value="/usr/local/bin/php" />
+      </component>
+      <component name="VcsContentAnnotationSettings">
+        <option name="myLimit" value="2678400000" />
+      </component>
+    </defaultProject>
+  </component>
+</application>

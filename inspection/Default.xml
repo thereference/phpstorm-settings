@@ -1,0 +1,7 @@
+<inspections profile_name="Default" version="1.0">
+  <option name="myName" value="Default" />
+  <option name="myLocal" value="true" />
+  <inspection_tool class="PhpCSValidationInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+    <option name="CODING_STANDARD" value="Drupal" />
+  </inspection_tool>
+</inspections>
